@@ -1,0 +1,1 @@
+This is a loan calculator in french. Using pure javascript and BootStrap 4
